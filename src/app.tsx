@@ -3,7 +3,7 @@ export function App() {
     <main class='w-screen h-screen flex flex-col justify-center items-center bg-bg font-lato'>
       <img
         class='relative rounded-t-xl w-card z-0'
-        src='./public/hero-image-business-card.png'
+        src='./hero-image-business-card.png'
         alt='couple drinking coffee'
       />
       <div class='bg-white px-8 shadow-transparent w-card relative before:block before:absolute before:content-[url("./white-overlay.svg")] before:w-[100%] before:z-10 before:-top-16 before:left-0 rounded-b-xl'>
