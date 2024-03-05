@@ -1,6 +1,6 @@
 # Responsive Business Blog Card
 
-![Responsive Business Blog Card](./public/screenshot.png)
+![Responsive Business Blog Card](./public/assets/screenshot.png)
 
 ## Technologies Used
 
